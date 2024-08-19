@@ -1,6 +1,6 @@
 # ProyectoWeb
 
-Este es un proyecto para la asignatura [Nombre de la Asignatura] de la universidad.
+Este es un proyecto para la asignatura Desarrollo Web II del instituto.
 
 ## Requisitos
 
